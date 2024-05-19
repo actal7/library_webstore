@@ -1,0 +1,17 @@
+{
+    "name": "actal/library_webstore",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Actal\\LibraryWebstore\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "actalian",
+            "email": "ac.taloi7@gmail.com"
+        }
+    ],
+    "require": {}
+}
